@@ -1,4 +1,4 @@
-Credits - [https://github.com/shaun-0/resources/](https://github.com/Nabagata/interview-prep/)
+Credits - [https://github.com/Nabagata/interview-prep](https://github.com/Nabagata/interview-prep/)
 
 
 # Interview Preparation Resources
